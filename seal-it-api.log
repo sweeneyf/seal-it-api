@@ -1,0 +1,16 @@
+{"level":"info","time":"2022-04-13T16:56:22.282+0100","caller":"seal-it-api/main.go:27","msg":"Application started"}
+{"level":"info","time":"2022-04-13T16:56:41.979+0100","caller":"handler/deed.go:37","msg":"posting a new deed"}
+{"level":"info","time":"2022-04-13T16:56:42.002+0100","caller":"hedera/client.go:18","msg":"In Record deed"}
+{"level":"info","time":"2022-04-13T16:56:42.022+0100","caller":"hedera/client.go:23","msg":"0.0.34142546"}
+{"level":"info","time":"2022-04-13T16:56:42.046+0100","caller":"hedera/client.go:29","msg":"302e020100300506032b657004220420a7fceceb3c6bdd1d649f8bc89d14d9672aa199ed0195e01a8b62e503cb8510bc"}
+{"level":"info","time":"2022-04-13T16:56:42.065+0100","caller":"hedera/client.go:35","msg":"0.0.34181505"}
+{"level":"info","time":"2022-04-13T16:56:43.500+0100","caller":"hedera/client.go:54","msg":"The message transaction status SUCCESS"}
+{"level":"info","time":"2022-04-13T16:56:43.519+0100","caller":"aws/dynamodb.go:21","msg":"Saving deed to dynamodb"}
+{"level":"info","time":"2022-04-13T16:57:06.694+0100","caller":"handler/deed.go:37","msg":"posting a new deed"}
+{"level":"info","time":"2022-04-13T16:57:06.719+0100","caller":"hedera/client.go:18","msg":"In Record deed"}
+{"level":"info","time":"2022-04-13T16:57:06.739+0100","caller":"hedera/client.go:23","msg":"0.0.34142546"}
+{"level":"info","time":"2022-04-13T16:57:06.758+0100","caller":"hedera/client.go:29","msg":"302e020100300506032b657004220420a7fceceb3c6bdd1d649f8bc89d14d9672aa199ed0195e01a8b62e503cb8510bc"}
+{"level":"info","time":"2022-04-13T16:57:06.777+0100","caller":"hedera/client.go:35","msg":"0.0.34181505"}
+{"level":"info","time":"2022-04-13T16:57:08.326+0100","caller":"hedera/client.go:54","msg":"The message transaction status SUCCESS"}
+{"level":"info","time":"2022-04-13T16:57:08.346+0100","caller":"aws/dynamodb.go:21","msg":"Saving deed to dynamodb"}
+{"level":"info","time":"2022-04-13T17:37:28.118+0100","caller":"seal-it-api/main.go:27","msg":"Application started"}

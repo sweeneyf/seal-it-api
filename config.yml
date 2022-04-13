@@ -1,0 +1,14 @@
+server:
+  port: 8080
+  
+hedera:
+  accountId: 0.0.34142546
+  privateKey: 302e020100300506032b657004220420a7fceceb3c6bdd1d649f8bc89d14d9672aa199ed0195e01a8b62e503cb8510bc
+  topicId: 0.0.34181505
+
+cloud:
+  region: "eu-west-1"
+
+log:
+  filename: "./seal-it-api.log"
+  level: "info"
