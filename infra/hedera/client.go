@@ -37,7 +37,7 @@ func (h *HederaClient) SealDeed(config config.Configuration, deed entity.Deed) (
 	client.SetOperator(accountId, privateKey)
 
 	//Send "Hello, HCS!" to the topic
-	submitMessage, err := hedera.NewTopicMessageSubmitTransaction().SetMessage([]byte("Hello, HCS!")).
+	submitMessage, err := hedera.NewTopicMessageSubmitTransaction().SetMessage([]byte("Hello, Test")).
 		SetTopicID(topicId).
 		Execute(client)
 

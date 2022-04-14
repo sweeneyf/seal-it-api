@@ -12,11 +12,11 @@
 *.out
 
 # log files
-*.log# 
+*.log
 
 # env files
 *.env
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
-.vscode/*
+
